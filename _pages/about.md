@@ -34,12 +34,22 @@ Project: Extending Capabilities of Large Language Models for Knowledge-Intensive
 • Use the question as the retrieval query,  acting as a knowledge retrieval module to retrieve the top-n knowledge terms with the highest similarities from our constructed knowledge bank and enhance the capabilities of LLMs for solving knowledge-intensive hybrid QA.
 
 
-How to edit your site's GitHub repository
+Alibaba DAMO Academy (Research Apartment) Internship
 ------
-Many people use a git client to create files on their local computer and then push them to GitHub's servers. If you are not familiar with git, you can directly edit these configuration and markdown files directly in the github.com interface. Navigate to a file (like [this one](https://github.com/academicpages/academicpages.github.io/blob/master/_talks/2012-03-01-talk-1.md) and click the pencil icon in the top right of the content preview (to the right of the "Raw | Blame | History" buttons). You can delete a file by clicking the trashcan icon to the right of the pencil icon. You can also create new files or upload files by navigating to a directory and clicking the "Create new file" or "Upload files" buttons. 
+Project: Use Machine Learning to Establish a Mapping Relationship from Genetic Variation to Phenotypic Diversity
 
-Example: editing a markdown file for a talk
-![Editing a markdown file for a talk](/images/editing-talk.png)
+• Spearheaded the annotation of 3D scan data for the skulls of bird species, identifying key points and lines to delineate structural features. Conducted preprocessing of the point cloud data, involving detailed annotation of specific features and conversion of data formats for enhanced usability and analysis.
+
+• Implemented a systematic approach for correlating genomic data with phenotypic traits, focusing on beak development genes and their association with beak width, length, and body mass.
+
+• Applied statistical and machine learning methods commonly used in Bio career, including PCA for dimensionality reduction, ANOVA for inter-group differences, and various regression models (simple linear, polynomial, Lasso & Group Lasso) to uncover complex relationships.
+
+• Conducted gene annotation and feature extraction from protein sequences, leveraging an array of trained models such as ProteinBert-Tape and MSA Transformer to extract significant information regarding protein structure and function.
+
+• Collaborated in a multidisciplinary team to rank genes based on their correlation with phenotype data, integrating ecological measurement data for comprehensive analysis.
+
+• Establish a phenotypic prediction model, which linked relationships between multiple genes and phenotype traits and achieved 84% accuracy.
+
 
 For more info
 ------
