@@ -25,7 +25,7 @@ New York University Research Assistant
 ------
 **Project: Counterfactual Retrieval**
 
-Advisors: Chen Zhao, Nov 2023 - Present
+*Advisors: Chen Zhao, Nov 2023 - Present*
 
 (To be completed)
 
@@ -34,7 +34,7 @@ Yale University & NYU University Research Assistant
 ------
 **Project: Extending Capabilities of Large Language Models for Knowledge-Intensive Financial Exam QA**
 
-Advisors: Arman Cohan & Chen Zhao, July 2023 - Present
+*Advisors: Arman Cohan & Chen Zhao, July 2023 - Present*
 
 • Construct a dataset about Complex Financial Exam QA with a hybrid of textual and tabular content and require college-level knowledge in the finance domain for effective resolution.
 
@@ -49,7 +49,7 @@ Alibaba DAMO Academy (Research Apartment) Internship
 ------
 **Project: Use Machine Learning to Establish a Mapping Relationship from Genetic Variation to Phenotypic Diversity**
 
-Advisor: Jieping Ye, Oct 2022 - June 2023
+*Advisor: Jieping Ye, Oct 2022 - June 2023*
 
 • Spearheaded the annotation of 3D scan data for the skulls of bird species, identifying key points and lines to delineate structural features. Conducted preprocessing of the point cloud data, involving detailed annotation of specific features and conversion of data formats for enhanced usability and analysis.
 
@@ -67,7 +67,7 @@ Zhejiang University Student Research Program
 ------
 **Project: Financial Statement Fraud and Valuation Misestimation Issues Detection**
 
-Advisor: Xili Zhang, Sept 2021 - Feb 2022
+*Advisor: Xili Zhang, Sept 2021 - Feb 2022*
 
 • Constructed a dataset based on the financial reports of 100 companies over the past ten years.
 
@@ -77,7 +77,7 @@ Advisor: Xili Zhang, Sept 2021 - Feb 2022
 
 Imperial Data Science Online Winter School 2022
 ------
-Winter School, Jan 2022 – June 2022
+*Winter School, Jan 2022 – June 2022*
 
 • Acquired a fundamental understanding of machine learning and data science
 
