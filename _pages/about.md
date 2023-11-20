@@ -22,7 +22,7 @@ You can find my CV here: [Hongjun's Curriculum Vitae](../assets/CS_CV_2023_appli
 
 My Research Experience
 ======
-The following section will introduce some of my explorations in scientific research so far. If there are details you find interesting that are not elaborated upon below, please do not hesitate to contact me.
+The following sections will introduce some of my explorations in scientific research so far. If there are details you find interesting that are not elaborated upon below, please do not hesitate to contact me.
 
 New York University Research Assistant                                                                           
 ------
