@@ -8,8 +8,7 @@ redirect_from:
 ---
 
 
-Skills
-----
+## Skills
 
 Machine Learning Toolkits
 ---
@@ -24,8 +23,7 @@ Toefl
 107  (Speaking: 24*; Writing:27)
 
 
-Other Experience
----
+## Other Experience
 
 Organizer & Student Union Manager (3 years) 
 ---
