@@ -10,7 +10,7 @@ redirect_from:
 
 My name is Hongiun Liu(Jan). I'm an undergraduate at CHU KOCHENHONORS COLLEGE of Zhejiang University with dual bachelor's degree in both Computer Science and Environmental Resource Management.
 
-My research interest includes Knowledge-Intensive Question Answering, Counterfactual Retrieval, and Applications of NLP methods in biology.
+My research interest includes Knowledge-Intensive Question Answering, Retrieval Augmented LLM, and NLP+Science.
 
 I am very fortunate to be advised by [Prof. Armon Cohan](https://armancohan.com/) of Yale University & Allen Institute for AI (AI2). I was advised by [Prof. Chen Zhao](http://www.chenz.umiacs.io/) from NYU Shanghai & New York University.
 
