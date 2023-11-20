@@ -17,15 +17,20 @@ The following section will introduce some of my explorations in scientific resea
 New York University Research Assistant                                                                           
 ------
 Project: Counterfactual Retrieval
+
 (To be completed)
 
 
 Yale University & NYU University Research Assistant
 ------
 Project: Extending Capabilities of Large Language Models for Knowledge-Intensive Financial Exam QA
+
 • Construct a dataset about Complex Financial Exam QA with a hybrid of textual and tabular content and require college-level knowledge in the finance domain for effective resolution.
+
 • Provide expert-annotated, detailed solution references in Python program format for each QA in the dataset, ensuring a high-quality benchmark for LLM assessment.
+
 • Evaluate a wide spectrum of LLMs on our newly constructed dataset with different prompting strategies like Chain-of-Thoughts and Program-of-Thoughts. The current best-performing system (i.e., GPT-4 with Program-of-Thoughts) achieves only 45.4% accuracy, leaving substantial room for improvement.
+
 • Use the question as the retrieval query,  acting as a knowledge retrieval module to retrieve the top-n knowledge terms with the highest similarities from our constructed knowledge bank and enhance the capabilities of LLMs for solving knowledge-intensive hybrid QA.
 
 
