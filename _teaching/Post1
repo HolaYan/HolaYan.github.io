@@ -9,7 +9,7 @@ location: "China"
 
 Birthday Picture Records
 
-<iframe src="../images/Birthday1.png" width="600" height="400"></iframe>
-<iframe src="../images/Birthday2.png" width="600" height="400"></iframe>
+<img alt="../images/Birthday1.png" src="data:image/png;base64,iVBORwA<MoreBase64SringHere>" />
+<img alt="../images/Birthday2.png" src="data:image/png;base64,iVBORwA<MoreBase64SringHere>" />
 
 Some Pictures！
