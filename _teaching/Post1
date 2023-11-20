@@ -7,9 +7,10 @@ date: 2023-10-03
 location: "China"
 ---
 
-Birthday Picture Records
+# Birthday Picture Records
 
-<img alt="../images/Birthday1.png" src="data:image/png;base64,iVBORwA<MoreBase64SringHere>" />
-<img alt="../images/Birthday2.png" src="data:image/png;base64,iVBORwA<MoreBase64SringHere>" />
+![Birthday Picture 1](data:image/png;base64,iVBORwA<CompleteBase64StringForImage1>)
 
-Some Pictures！
+![Birthday Picture 2](data:image/png;base64,iVBORwA<CompleteBase64StringForImage2>)
+
+Some Pictures!
