@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Hongjun / Personal Homepage"
+title                    : "Hongjun / Homepage"
 title_separator          : "-"
 name                     : &name "Hongjun(Jan) Liu"
 description              : &description "An undergraduate student from Zhejiang University"
