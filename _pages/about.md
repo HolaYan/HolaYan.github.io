@@ -12,7 +12,7 @@ My name is Hongiun(Jan) Liu. I'm an undergraduate at CHU KOCHENHONORS COLLEGE of
 
 My research interest includes **Knowledge-Intensive Question Answering, Retrieval Augmented LLM, and NLP+Science**.
 
-I am very fortunate to be advised by [Prof. Armon Cohan](https://armancohan.com/) of Yale University & Allen Institute for AI (AI2). I was advised by [Prof. Chen Zhao](http://www.chenz.umiacs.io/) from NYU Shanghai & New York University.
+I am very fortunate to be advised by [Prof. Armon Cohan](https://armancohan.com/) of Yale University & Allen Institute for AI (AI2). I am also advised by [Prof. Chen Zhao](http://www.chenz.umiacs.io/) from NYU Shanghai & New York University.
 
 You can find my CV here: [Hongjun's Curriculum Vitae](../assets/CS_CV_2023_application_HongjunLiu.pdf).
 
