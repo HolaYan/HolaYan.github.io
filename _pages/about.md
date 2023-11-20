@@ -50,6 +50,24 @@ Project: Use Machine Learning to Establish a Mapping Relationship from Genetic V
 
 • Establish a phenotypic prediction model, which linked relationships between multiple genes and phenotype traits and achieved 84% accuracy.
 
+Zhejiang University Student Research Program
+------
+Project: Financial Statement Fraud and Valuation Misestimation Issues Detection
+
+• Constructed a dataset based on the financial reports of 100 companies over the past ten years.
+
+• By performing a chi-square test, five indicators of accounts receivable turnover, inventory turnover, cash ratio, intellectual property ratio, and current ratio were identified as significant factors for detecting companies that engage in financial statement fraud. These factors were then used to establish data classification labels.
+
+• Based on restructured data, evaluate various kinds of recognition models for value estimation, such as linear regression, logistic regression, decision trees, random forests, and neural networks.
+
+Imperial Data Science Online Winter School 2022
+------
+Jan 2022 – June 2022
+• Acquired a fundamental understanding of machine learning and data science
+
+• Fine-tuned the model's parameters to enable the use of machine learning for identifying brain tumor information.
+
+
 
 For more info
 ------
