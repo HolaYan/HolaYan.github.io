@@ -8,5 +8,4 @@ redirect_from:
 ---
 
 
-<iframe src="../assets/CS_CV_2023_application_HongjunLiu.pdf" width="600" height="400"></iframe>
-
+<embed src="../assets/CS_CV_2023_application_HongjunLiu.pdf" width="600" height="400" type="application/pdf">
