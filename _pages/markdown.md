@@ -7,8 +7,10 @@ redirect_from:
   - /markdown.html
 ---
 
+
 Skills
-===
+----
+
 Machine Learning Toolkits
 ---
 Model development (Scikit-learn, TensorFlow, PyTorch, Keras); model evaluation (ROC, AUC, confusion matrix); model deployment (Docker)
@@ -23,7 +25,8 @@ Toefl
 
 
 Other Experience
-===
+---
+
 Organizer & Student Union Manager (3 years) 
 ---
 Zhejiang University Guangdong Students Union
