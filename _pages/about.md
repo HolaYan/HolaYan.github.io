@@ -15,7 +15,7 @@ I am very fortunate to be advised by [Prof. Armon Cohan](https://armancohan.com/
 
 You can find my CV here: [Hongjun's Curriculum Vitae](../assets/CS_CV_2023_application_HongjunLiu.pdf).
 
-[Email](mailto:janne150.lhj@gmail.com) / [Github](https://github.com/HolaYan) / 
+[Email](mailto:janne150.lhj@gmail.com) / [Github](https://github.com/HolaYan) / [Twitter](https://twitter.com/Jan2504143754)
 
 My Research Experience
 ======
