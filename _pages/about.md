@@ -52,7 +52,9 @@ Project: Use Machine Learning to Establish a Mapping Relationship from Genetic V
 
 Zhejiang University Student Research Program
 ------
-Project: Financial Statement Fraud and Valuation Misestimation Issues Detection
+**Project: Financial Statement Fraud and Valuation Misestimation Issues Detection**
+
+Advisor: Xili Zhang	                                     					Sept 2021 - Feb 2022
 
 • Constructed a dataset based on the financial reports of 100 companies over the past ten years.
 
@@ -62,7 +64,8 @@ Project: Financial Statement Fraud and Valuation Misestimation Issues Detection
 
 Imperial Data Science Online Winter School 2022
 ------
-Jan 2022 – June 2022
+Winter School	                                     					      Jan 2022 – June 2022
+
 • Acquired a fundamental understanding of machine learning and data science
 
 • Fine-tuned the model's parameters to enable the use of machine learning for identifying brain tumor information.
