@@ -3,8 +3,8 @@ main:
   - title: "Publications"
     url: /publications/
 
-  - title: "Skills"
-    url: /teaching/    
+  # - title: "Skills"
+  #   url: /teaching/    
 
   - title: "Education Experience"
     url: /talks/    
@@ -20,3 +20,6 @@ main:
     
   - title: "More Information"
     url: /markdown/
+
+  - title: "Some Daily Posts"
+    url: /teaching/    
