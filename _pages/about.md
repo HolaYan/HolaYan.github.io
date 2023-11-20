@@ -8,7 +8,14 @@ redirect_from:
   - /about.html
 ---
 
-My name is Hongiun Liu(Jan). I'm an undergraduate at CHU KOCHENHONORS COLLEGE of Zhejiang University with dual degree in bothComputer Science and Environmental Resource Management
+My name is Hongiun Liu(Jan). I'm an undergraduate at CHU KOCHENHONORS COLLEGE of Zhejiang University with dual degree in bothComputer Science and Environmental Resource Management.
+ My research interest includes computer vision, computer graphics, machine learning, and computational photography.
+
+I am very fortunate to be advised by [Prof. Armon Cohan](https://armancohan.com/) of Yale University & Allen Institute for AI (AI2). I was advised by [Prof. Chen Zhao](http://www.chenz.umiacs.io/) from NYU Shanghai & New York University.
+
+You can find my CV here: [Hongjun's Curriculum Vitae](../assets/CS_CV_2023_application_HongjunLiu.pdf).
+
+[Email](mailto:janne150.lhj@gmail.com) / [Github](https://github.com/HolaYan) / 
 
 My Research Experience
 ======
