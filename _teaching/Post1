@@ -9,9 +9,10 @@ location: "China"
 
 # Birthday Picture Records
 
-![Birthday Picture 1](data:image/png;base64,iVBORwA<CompleteBase64StringForImage1>)
 
-![Birthday Picture 2](data:image/png;base64,iVBORwA<CompleteBase64StringForImage2>)
+![Birthday Picture 1](data:../data/Birthday1.png;base64,iVBORwA<CompleteBase64StringForImage1>)
+
+![Birthday Picture 2](data:../data/Birthday2.png;base64,iVBORwA<CompleteBase64StringForImage2>)
 
 Some Pictures!
 
