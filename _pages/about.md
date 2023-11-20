@@ -90,4 +90,4 @@ Imperial Data Science Online Winter School 2022
 
 For more info
 ------
-Maybe you can contact me by [email](mailto:janne150.lhj@gmail.com)
+Maybe you can contact me by [Email](mailto:janne150.lhj@gmail.com)
