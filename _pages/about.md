@@ -19,6 +19,7 @@ You can find my CV here: [Hongjun's Curriculum Vitae](../assets/CS_CV_2023_appli
 [Email](mailto:janne150.lhj@gmail.com) / [Github](https://github.com/HolaYan) / [Twitter](https://twitter.com/Jan2504143754)
 
 
+
 My Research Experience
 ======
 The following section will introduce some of my explorations in scientific research so far. If there are details you find interesting that are not elaborated upon below, please do not hesitate to contact me.
