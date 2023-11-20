@@ -21,14 +21,18 @@ Project: Counterfactual Retrieval
 ？？？
 
 
-Create content & metadata
+Yale University & NYU University Research Assistant
 ------
-For site content, there is one markdown file for each type of content, which are stored in directories like _publications, _talks, _posts, _teaching, or _pages. For example, each talk is a markdown file in the [_talks directory](https://github.com/academicpages/academicpages.github.io/tree/master/_talks). At the top of each markdown file is structured data in YAML about the talk, which the theme will parse to do lots of cool stuff. The same structured data about a talk is used to generate the list of talks on the [Talks page](https://academicpages.github.io/talks), each [individual page](https://academicpages.github.io/talks/2012-03-01-talk-1) for specific talks, the talks section for the [CV page](https://academicpages.github.io/cv), and the [map of places you've given a talk](https://academicpages.github.io/talkmap.html) (if you run this [python file](https://github.com/academicpages/academicpages.github.io/blob/master/talkmap.py) or [Jupyter notebook](https://github.com/academicpages/academicpages.github.io/blob/master/talkmap.ipynb), which creates the HTML for the map based on the contents of the _talks directory).
+Project: Extending Capabilities of Large Language Models for Knowledge-Intensive Financial Exam QA
 
-**Markdown generator**
+• Construct a dataset about Complex Financial Exam QA with a hybrid of textual and tabular content and require college-level knowledge in the finance domain for effective resolution.
 
-I have also created [a set of Jupyter notebooks](https://github.com/academicpages/academicpages.github.io/tree/master/markdown_generator
-) that converts a CSV containing structured data about talks or presentations into individual markdown files that will be properly formatted for the academicpages template. The sample CSVs in that directory are the ones I used to create my own personal website at stuartgeiger.com. My usual workflow is that I keep a spreadsheet of my publications and talks, then run the code in these notebooks to generate the markdown files, then commit and push them to the GitHub repository.
+• Provide expert-annotated, detailed solution references in Python program format for each QA in the dataset, ensuring a high-quality benchmark for LLM assessment.
+
+• Evaluate a wide spectrum of LLMs on our newly constructed dataset with different prompting strategies like Chain-of-Thoughts and Program-of-Thoughts. The current best-performing system (i.e., GPT-4 with Program-of-Thoughts) achieves only 45.4% accuracy, leaving substantial room for improvement.
+
+• Use the question as the retrieval query,  acting as a knowledge retrieval module to retrieve the top-n knowledge terms with the highest similarities from our constructed knowledge bank and enhance the capabilities of LLMs for solving knowledge-intensive hybrid QA.
+
 
 How to edit your site's GitHub repository
 ------
