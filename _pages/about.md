@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-My name is Hongiun Liu(Jan). I'm an undergraduate at CHU KOCHENHONORS COLLEGE of Zhejiang University with dual degree in bothComputer Science and Environmental Resource Management.
+My name is Hongiun Liu(Jan). I'm an undergraduate at CHU KOCHENHONORS COLLEGE of Zhejiang University with dual bachelor's degree in both Computer Science and Environmental Resource Management.
 
 My research interest includes Knowledge-Intensive Question Answering, Counterfactual Retrieval, and Applications of NLP methods in biology.
 
