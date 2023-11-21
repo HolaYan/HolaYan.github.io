@@ -33,7 +33,7 @@ New York University Research Assistant
 (To be completed)
 
 
-Yale University & NYU University Research Assistant
+Yale University & New York University Research Assistant
 ------
 **Project: Extending Capabilities of Large Language Models for Knowledge-Intensive Financial Exam QA**
 
