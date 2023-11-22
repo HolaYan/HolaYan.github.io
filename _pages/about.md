@@ -91,7 +91,9 @@ Imperial College London Data Science Online Winter School 2022
 
 • Fine-tuned the model's parameters to enable the use of machine learning for identifying brain tumor information.
 
+• Standardize and clean the data to remove irrelevant information, normalize medical terminology, and handle abbreviations and synonyms.
 
+• Validate the NLP strategies through clinical trials to ensure they are effective and safe.
 
 For more info
 ------
