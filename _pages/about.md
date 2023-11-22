@@ -26,11 +26,15 @@ The following sections will introduce some of my explorations in scientific rese
 
 New York University Research Assistant                                                                           
 ------
-**Project: Counterfactual Retrieval**
+**Project: Developing and Enhancing Language Models for Improved Counterfactual Claim Processing and Evidence Retrieval**
 
 *Advisors: Chen Zhao, Nov 2023 - Present*
 
-(To be completed)
+• Utilize a large language model (LLM) like GPT-4 to transform counterfactual claims into retriever-friendly versions through decomposition, rephrasing, or similar methods, and subsequently address these reformulated claims.
+
+• Accumulate pairs of original and counterfactual claims to train an editing model, focusing on refining models such as LLAMA2 for this purpose.
+
+• Enhance the capabilities of a dense retriever by fine-tuning it, thereby facilitating more efficient evidence discovery using claims edited by the LLM.
 
 
 Yale University & New York University Research Assistant
@@ -47,6 +51,7 @@ Yale University & New York University Research Assistant
 
 • Use the question as the retrieval query,  acting as a knowledge retrieval module to retrieve the top-n knowledge terms with the highest similarities from our constructed knowledge bank and enhance the capabilities of LLMs for solving knowledge-intensive hybrid QA.
 
+• Enhance the proficiency of language models such as LLAMA2 to augment the performance of large language models (LLMs) in addressing complex, knowledge-intensive hybrid question-answering tasks.
 
 Alibaba DAMO Academy (Research Apartment) Internship
 ------
