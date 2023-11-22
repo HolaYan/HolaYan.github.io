@@ -77,7 +77,7 @@ Zhejiang University Student Research Program
 
 *Advisor: Xili Zhang, Sept 2021 - Feb 2022*
 
-• Constructed a dataset based on the financial reports of 100 companies over the past ten years.
+• Constructed a dataset based on the financial reports of companies over the past ten years.
 
 • By performing a chi-square test, five indicators of accounts receivable turnover, inventory turnover, cash ratio, intellectual property ratio, and current ratio were identified as significant factors for detecting companies that engage in financial statement fraud. These factors were then used to establish data classification labels.
 
