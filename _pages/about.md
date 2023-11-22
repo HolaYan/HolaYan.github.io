@@ -83,7 +83,7 @@ Zhejiang University Student Research Program
 
 • Based on restructured data, evaluate various kinds of recognition models for value estimation, such as linear regression, logistic regression, decision trees, random forests, and neural networks.
 
-Imperial Data Science Online Winter School 2022
+Imperial College London Data Science Online Winter School 2022
 ------
 *Winter School, Jan 2022 – June 2022*
 
